@@ -6,5 +6,5 @@ For the first time I rented a server, installed the OS, installed a node on a re
 
 # 05/01/2025
 
-Successfully launched a validator on the Stargaze network.
+Successfully launched a validator on the [Stargaze network](https://www.mintscan.io/stargaze/validators/starsvaloper1ghrj4utqa849kxfkcau4mwt8s0txgrt99ddgyz?sector=power-events).
 ![Screenshot_4](https://github.com/user-attachments/assets/294be9a9-c10d-4a68-a536-0a1a59f0e7a3)
